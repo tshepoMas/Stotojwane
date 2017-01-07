@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tshepoMas/Stotojwane/issues"
   },
-  "homepage": "https://github.com/tshepoMas/Stotojwane#readme"
+  "homepage": "https://github.com/tshepoMas/Stotojwane#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }
