@@ -1,0 +1,22 @@
+{
+  "name": "stotojwane",
+  "version": "1.0.0",
+  "description": "Personal online profile best friend robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tshepoMas/Stotojwane.git"
+  },
+  "keywords": [
+    "Stotojwane"
+  ],
+  "author": "chemoThugg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tshepoMas/Stotojwane/issues"
+  },
+  "homepage": "https://github.com/tshepoMas/Stotojwane#readme"
+}
